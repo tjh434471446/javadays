@@ -18,7 +18,6 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 public class Main {
-
     public static void main(String[] args) {
         //String a = "aaaaa";
         //String b = "bbbb";
