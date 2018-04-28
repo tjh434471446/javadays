@@ -1,6 +1,15 @@
-package main.java;
+package com.jiehao;
 
-import main.java.pratice.codewars.BattleField;
+import java.io.ByteArrayInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+
+import com.jiehao.pratice.codewars.BattleField;
+
 import org.apache.cxf.jaxws.endpoint.dynamic.JaxWsDynamicClientFactory;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -8,19 +17,13 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.ParserConfigurationException;
-import java.io.ByteArrayInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-
 public class Main {
 
     public static void main(String[] args) {
         //String a = "aaaaa";
         //String b = "bbbb";
         //System.out.println(Lcs.lcs(a,b));
+        System.out.print("here");
         int i = 1;
         int j = 1;
         for (;j<10;j++){

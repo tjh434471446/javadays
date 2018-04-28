@@ -1,4 +1,4 @@
-package main.java.pratice.codewars;
+package com.jiehao.pratice.codewars;
 
 import java.text.DecimalFormat;
 

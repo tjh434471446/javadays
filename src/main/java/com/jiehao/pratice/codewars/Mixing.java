@@ -1,16 +1,16 @@
-package main.java.pratice.codewars;
+package com.jiehao.pratice.codewars;
 
 import java.util.*;
 
 public class Mixing {
     public static String mix(String s1, String s2) {
         // your code
-        Map map1 = countCharacter(s1);
-        Map map2 = countCharacter(s2);
+        Map<Character,Integer> map1 = countCharacter(s1);
+        Map<Character,Integer> map2 = countCharacter(s2);
         List<Map.Entry<Character,Integer>> sortKey = sortMap(map1,map2);
         StringBuilder builder = new StringBuilder();
-        List<Object> showed = new ArrayList();
-        for (Map.Entry i : sortKey)
+        List<Object> showed = new ArrayList<Object>();
+        for (Map.Entry<Character,Integer> i : sortKey)
         {
             if ((Integer)i.getValue() <= 1)
             {
@@ -55,9 +55,9 @@ public class Mixing {
         }
         return map;
     }
-    public static List<Map.Entry<Character,Integer>> sortMap(Map map1,Map map2)
+    public static List<Map.Entry<Character,Integer>> sortMap(Map<Character,Integer> map1,Map<Character,Integer> map2)
     {
-        List<Map.Entry<Character,Integer>> list = new ArrayList<>(map1.entrySet());
+        List<Map.Entry<Character,Integer>> list = new ArrayList<Map.Entry<Character,Integer>>(map1.entrySet());
         list.addAll(new ArrayList<>(map2.entrySet()));
         System.out.println("list?");
         Collections.sort(list,(Map.Entry<Character,Integer> a,Map.Entry<Character,Integer> b)-> b.getValue().compareTo(a.getValue()));

@@ -1,4 +1,4 @@
-package main.java.util;
+package com.jiehao.util;
 
 import org.elasticsearch.client.transport.TransportClient;
 import org.elasticsearch.common.settings.Settings;

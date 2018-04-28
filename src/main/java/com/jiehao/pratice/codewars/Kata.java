@@ -1,4 +1,4 @@
-package main.java.pratice.codewars;
+package com.jiehao.pratice.codewars;
 
 public class Kata {
     public static long nextSmaller(long n)

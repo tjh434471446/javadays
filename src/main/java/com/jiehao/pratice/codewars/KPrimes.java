@@ -1,4 +1,4 @@
-package main.java.pratice.codewars;
+package com.jiehao.pratice.codewars;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ public class KPrimes {
         List<Long> ret = new ArrayList<>();
         for (long i = start;i < end;i ++)
         {
-            List perList = selectFactor(i);
+            List<Long> perList = selectFactor(i);
             if (perList.size() == k)
             {
                 ret.add(i);
@@ -43,7 +43,7 @@ public class KPrimes {
         }
         return false;
     }
-    private static List selectFactor(long num) {
+    private static List<Long> selectFactor(long num) {
         List<Long> factorNum = new ArrayList<>();
         long j;
         double temp = num;

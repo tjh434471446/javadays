@@ -1,7 +1,5 @@
-package main.java.pratice.codewars;
+package com.jiehao.pratice.codewars;
 
-import java.util.HashMap;
-import java.util.Map;
 
 public class Conversion {
     public String solution(int n) {

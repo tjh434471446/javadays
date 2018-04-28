@@ -1,8 +1,6 @@
-package main.java.pratice.codewars;
+package com.jiehao.pratice.codewars;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class JosephusSurvivor {
     public static int josephusSurvivor(final int n, final int k) {

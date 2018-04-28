@@ -1,4 +1,4 @@
-package main.java.pratice.codewars;
+package com.jiehao.pratice.codewars;
 
 import java.util.ArrayList;
 
@@ -106,6 +106,7 @@ public class BattleField {
         }
     }
     public static void test(){
+        /*
         int[][] battleField = {
                 {1, 0, 0, 0, 0, 1, 1, 0, 0, 0},
                 {1, 1, 1, 0, 0, 0, 0, 0, 1, 0},
@@ -117,6 +118,7 @@ public class BattleField {
                 {0, 0, 0, 1, 0, 0, 0, 0, 0, 0},
                 {0, 0, 0, 0, 0, 0, 0, 1, 0, 0},
                 {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}};
+                */
         int[][] battleField1 = {
                 {1, 0, 0, 0, 0, 1, 1, 0, 0, 0},
                 {1, 0, 1, 0, 0, 0, 0, 0, 1, 0},

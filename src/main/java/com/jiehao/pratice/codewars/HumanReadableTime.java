@@ -1,4 +1,4 @@
-package main.java.pratice.codewars;
+package com.jiehao.pratice.codewars;
 
 public class HumanReadableTime {
     public String makeReadable(int seconds) {
