@@ -1,0 +1,28 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "algorithm",
+                "projectName": "algorithm",
+                "workingDirectory": "d:\\project\\gitProject\\algorithm",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "algorithm",
+                "projectName": "algorithm",
+                "workingDirectory": "d:\\project\\gitProject\\algorithm",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}

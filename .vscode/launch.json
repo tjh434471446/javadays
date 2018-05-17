@@ -4,6 +4,7 @@
     // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
         {
             "type": "java",
             "name": "Debug (Launch)-Main<algorithm>",
@@ -15,7 +16,7 @@
             "projectName": "algorithm",
             "args": ""
         },
-        {
+                {
             "type": "java",
             "name": "Debug (Attach)",
             "request": "attach",
