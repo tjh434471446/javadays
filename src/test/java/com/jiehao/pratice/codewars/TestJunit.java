@@ -3,7 +3,6 @@ package com.jiehao.pratice.codewars;
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 
-import com.jiehao.pratice.algorithms.sort.DirectInsertSort;
 import com.jiehao.pratice.junit.MessageUtil;
 
 import org.junit.Test;
@@ -33,11 +32,5 @@ public class TestJunit{
         Object[] input = new Object[]{4,5,1,7,1};
         Object[] expected = new Object[]{new Object[]{4,5,1,7},1};
         assertArrayEquals(expected, Kata.unflatten(input, 1));
-    }
-    @Test
-    public void testDirectInsertSort(){
-        int[] input = new int[]{1,5,9,6,3,2,4,7};
-        int[] expected = new int[]{1,2,3,4,5,6,7,9};
-        assertArrayEquals(expected, DirectInsertSort.excute(input));
     }
 }
