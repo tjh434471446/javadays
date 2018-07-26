@@ -12,3 +12,15 @@ https://www.codewars.com/kata/587136ba2eefcb92a9000027
 
 4.Century From Year 根据年份求当前世纪  
 https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+
+5.Roman Numerals Encoder 数字转罗马数字  
+https://www.codewars.com/kata/51b62bf6a9c58071c600001b
+
+6.Count IP Addresses IP计算  
+https://www.codewars.com/kata/526989a41034285187000de4
+
+7.Snail 旋转输出矩阵数字  
+https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1
+
+8.Josephus Survivor 逃生小游戏,依次报数,特定数字的倍数则淘汰  
+https://www.codewars.com/kata/555624b601231dc7a400017a
