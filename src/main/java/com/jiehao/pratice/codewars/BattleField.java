@@ -4,30 +4,32 @@ import java.util.ArrayList;
 
 /**
  * Battleship field validator
- * tjh 20180409
+ * https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7
  */
 public class BattleField {
-    public static boolean fieldValidator(int[][] field) {
+    private static boolean fieldValidator(int[][] field) {
         // your code here!
 
         ArrayList<Point> checkedList = new ArrayList<>();
+        // 定义船下标表示size值为个数
         int[] numLimit = {0,4,3,2,1};
         int x,y;
         int top,bottom,left,right,lefttop,righttop,leftbottom,rightbottom;
         boolean checkFlag;
+        // 遍历整个矩阵将检查过的点依次加入list
         for (int col = 0;col < field[0].length;col ++){
             for (int row = 0;row < field.length;row ++){
-                //System.out.println("row :" + row + " col :" + col + " value :" + field[row][col]);
                 if (checkContain(row,col,checkedList)){
                     continue;
                 }
+                // 设置为船的起点
                 if (field[row][col] == 1){
                     x = row;y = col;
                     checkedList.add(new Point(x , y));
                     checkFlag = true;
                     int count = 1;
+                    // 实现题目规则
                     while(checkFlag){
-                        //System.out.println("x :"+x);
                         top = 0;bottom = 0;left = 0;right = 0;lefttop = 0;righttop = 0;leftbottom = 0;rightbottom = 0;
                         if ((x > 0)&&(field[x - 1][y] == 1)&&(!checkContain(x -1,y,checkedList))){
                             top = 1;
@@ -82,8 +84,7 @@ public class BattleField {
         return true;
     }
 
-    public static boolean checkContain(int x, int y, ArrayList<Point> checkedList){
-        //if (field[x + 1])
+    private static boolean checkContain(int x, int y, ArrayList<Point> checkedList){
         for (Point p:checkedList){
             if (p.equals(x,y)){
                 return true;

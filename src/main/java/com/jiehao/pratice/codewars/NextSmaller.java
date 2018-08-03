@@ -1,12 +1,14 @@
 package com.jiehao.pratice.codewars;
-
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-
+/**
+ * Next smaller number with the same digits
+ * https://www.codewars.com/kata/5659c6d896bc135c4c00021e
+ */
 public class NextSmaller {
     public static long nextSmaller(long n) {
         ArrayList<Long> arr = long2Arr(n);
+        // 迭代重新排列低位直到满足则返回
         for (int i = 2; i <= arr.size(); i++){
             long checkNum = n % Math.round(Math.pow(10,i));
             long preFix = n - checkNum;
@@ -19,6 +21,7 @@ public class NextSmaller {
         }
         return -1;
     }
+    // 根据迭代次数求出是否存在满足低位
     private static long nextSmallerN(long n,int i){
         ArrayList<Long> number = long2Arr(n);
         for (int j = 0; j < i - number.size();j++){

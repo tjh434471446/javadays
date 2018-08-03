@@ -1,5 +1,6 @@
 package com.jiehao;
-import com.jiehao.pratice.codewars.NextSmaller;
+import com.jiehao.pratice.lectcode.MaxArea;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 public class Main {
@@ -14,6 +15,6 @@ public class Main {
 //        System.out.println("Base91 = " + Base91.encode("Hello World!"));
 //        System.out.println("Base91 = " + Base91.encode(">OwJh>Io0Tv!8PE"));
 //        Numbers2Plus.excute();
-        System.out.println(NextSmaller.nextSmaller(310));
+        MaxArea.test();
     }
 }

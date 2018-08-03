@@ -3,27 +3,34 @@
   <component name="ChangeListManager">
     <list default="true" id="93ffc899-0cad-4ae6-9fe0-f560e9d09bec" name="Default" comment="更新codewars">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/Base91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Numbers2Plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/RainWaterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/algorithms/TestJunit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/BattleField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/BattleField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algorithm$TestJunit_testAdd.coverage" NAME="TestJunit.testAdd Coverage Results" MODIFIED="1524911182506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jiehao.pratice.codewars.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/algorithm$TestJunit_testDirectInsertSort.coverage" NAME="TestJunit.testDirectInsertSort Coverage Results" MODIFIED="1526523443976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jiehao.pratice.codewars.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/algorithm$TestJunit_testAdd.coverage" NAME="TestJunit.testAdd Coverage Results" MODIFIED="1524911182506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.jiehao.pratice.codewars.*</FILTER>
+    <SUITE FILE_PATH="coverage/algorithm$TestJUnit_testRainWater.ic" NAME="TestJUnit.testRainWater Coverage Results" MODIFIED="1532682286719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jiehao.pratice.lectcode.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/algorithm$TestJunit.coverage" NAME="TestJunit Coverage Results" MODIFIED="1526522918797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jiehao.pratice.codewars.*</FILTER>
@@ -33,16 +40,52 @@
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="1" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="300890072">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="984" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="984" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="algorithm" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+            <state relative-caret-position="253">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NextSmaller.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1045">
-              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+            <state relative-caret-position="190">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,20 +105,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BattleField.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/BattleField.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <caret line="333" selection-start-line="333" selection-end-line="333" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Numbers2Plus.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/codewars/TestJunit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/RainWaterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Numbers2Plus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="384">
               <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/SnakesLadders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
             </state>
           </provider>
         </entry>
@@ -87,6 +181,7 @@
       <list>
         <option value="FxmlFile" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -127,11 +222,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/codewars/TestJunit.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/algorithms/sort/DirectInsertSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/SnakesLadders.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/Base91.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Numbers2Plus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/Base91.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/SnakesLadders.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/BattleField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/TestJUnit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/RainWaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java" />
       </list>
     </option>
   </component>
@@ -149,14 +250,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="105" />
-    <option name="y" value="50" />
-    <option name="width" value="1940" />
-    <option name="height" value="1045" />
+    <option name="x" value="642" />
+    <option name="y" value="230" />
+    <option name="width" value="1920" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -164,6 +262,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -215,7 +314,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jiehao" type="462c0819:PsiDirectoryNode" />
               <item name="pratice" type="462c0819:PsiDirectoryNode" />
-              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="lectcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -230,17 +329,54 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pratice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pratice" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pratice" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pratice" type="462c0819:PsiDirectoryNode" />
+              <item name="lectcode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532684310261" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -248,6 +384,12 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.jiehao.pratice.lectcode" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project\gitProject\algorithm\src\test\java\com\jiehao\pratice\codewars" />
     </key>
@@ -274,6 +416,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="main.java.Main" />
@@ -281,52 +426,41 @@
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="TestJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RainWaterTest.testRainWater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jiehao.pratice.codewars.*" />
+          <option name="PATTERN" value="com.jiehao.pratice.lectcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jiehao.pratice.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.codewars.TestJunit" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestJunit.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiehao.pratice.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.jiehao.pratice.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.codewars.TestJunit" />
-      <option name="METHOD_NAME" value="testAdd" />
+      <option name="PACKAGE_NAME" value="com.jiehao.pratice.lectcode" />
+      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.lectcode.RainWaterTest" />
+      <option name="METHOD_NAME" value="testRainWater" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJUnit.testRainWater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiehao.pratice.lectcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiehao.pratice.lectcode" />
+      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.lectcode.TestJUnit" />
+      <option name="METHOD_NAME" value="testRainWater" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="TestJunit.testDirectInsertSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
@@ -336,35 +470,30 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.jiehao.pratice.codewars" />
       <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.codewars.TestJunit" />
       <option name="METHOD_NAME" value="testDirectInsertSort" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.TestJunit" />
-      <item itemvalue="JUnit.TestJunit.testAdd" />
       <item itemvalue="JUnit.TestJunit.testDirectInsertSort" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.TestJUnit.testRainWater" />
+      <item itemvalue="JUnit.RainWaterTest.testRainWater" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.RainWaterTest.testRainWater" />
+        <item itemvalue="JUnit.TestJUnit.testRainWater" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TestJunit.testDirectInsertSort" />
-        <item itemvalue="JUnit.TestJunit" />
-        <item itemvalue="JUnit.TestJunit.testAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +542,10 @@
       <workItem from="1532478381657" duration="5533000" />
       <workItem from="1532498848437" duration="13633000" />
       <workItem from="1532565282550" duration="4162000" />
-      <workItem from="1532591887921" duration="820000" />
+      <workItem from="1532591887921" duration="10453000" />
+      <workItem from="1532651416581" duration="949000" />
+      <workItem from="1532652935884" duration="340000" />
+      <workItem from="1532662550999" duration="4556000" />
     </task>
     <task id="LOCAL-00001" summary="开坑声明codewars">
       <created>1523322131799</created>
@@ -429,16 +561,24 @@
       <option name="project" value="LOCAL" />
       <updated>1523322197279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新codewars和lectcode">
+      <created>1532592779466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532592779466</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新codewars">
+      <created>1532592834650</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532592834650</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 14m 03s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 15m 18s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 15m 30s.xml">
       <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
     </history-entry>
@@ -463,45 +603,51 @@
     <history-entry file="TestJunit_testDirectInsertSort - 2018.07.23 at 17h 01m 32s.xml">
       <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestJUnit_testRainWater - 2018.07.27 at 17h 04m 55s.xml">
+      <configuration name="TestJUnit.testRainWater" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RainWaterTest_testRainWater - 2018.07.27 at 17h 07m 01s.xml">
+      <configuration name="RainWaterTest.testRainWater" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169172000" />
+    <option name="totallyTimeSpent" value="184650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.3281027" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Java Enterprise" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50416666" side_tool="true" weight="0.3311185" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32890365" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49583334" weight="0.33095577" />
-      <window_info anchor="bottom" id="Spring" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978602" visible="true" weight="0.19436997" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978602" visible="true" weight="0.18632708" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" sideWeight="0.5014245" side_tool="true" weight="0.1769437" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.39942938" />
-      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="0" />
+      <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49583334" weight="0.33049646" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39942938" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50416666" side_tool="true" weight="0.3311185" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32765958" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32890365" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32908848" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,6 +659,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="开坑声明codewars" />
     <MESSAGE value="结构修改" />
+    <MESSAGE value="更新codewars和lectcode" />
     <MESSAGE value="更新codewars" />
     <option name="LAST_COMMIT_MESSAGE" value="更新codewars" />
   </component>
@@ -653,42 +800,41 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java</url>
-          <line>38</line>
+          <line>41</line>
           <properties />
           <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java</url>
-          <line>45</line>
+          <line>48</line>
           <properties />
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java</url>
-          <line>11</line>
+          <line>13</line>
           <properties />
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java</url>
-          <line>9</line>
+          <line>11</line>
           <properties />
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java</url>
-          <line>35</line>
+          <line>38</line>
           <properties />
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java</url>
-          <line>30</line>
+          <line>33</line>
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="138" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -697,43 +843,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/javax/xml/parsers/DocumentBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="119" column="14" selection-start-line="119" selection-start-column="14" selection-end-line="119" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/javax/xml/parsers/DocumentBuilderFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="114" column="46" selection-start-line="114" selection-start-column="46" selection-end-line="114" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/solution/codewars/TheClockwiseSpiral.java" />
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1430" column="27" selection-start-line="1430" selection-start-column="27" selection-end-line="1430" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/function/IntPredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/function/IntFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.xml" />
     <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3120">
@@ -858,24 +967,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/codewars/TestJunit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/SnakesLadders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -903,13 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/Base91.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -917,20 +1005,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/Base91.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        <state relative-caret-position="361">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        <state relative-caret-position="988">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -939,15 +1028,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/BattleField.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="131" column="6" selection-start-line="131" selection-start-column="6" selection-end-line="131" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/Conversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/SnakesLadders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/codewars/TestJunit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/TestJUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/RainWaterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Numbers2Plus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="384">
           <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
