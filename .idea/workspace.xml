@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93ffc899-0cad-4ae6-9fe0-f560e9d09bec" name="Default" comment="更新codewars">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/Base91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/RainWaterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_9.xml" beforeDir="false" />
+    <list default="true" id="93ffc899-0cad-4ae6-9fe0-f560e9d09bec" name="Default" comment="更新leetcode">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/BullsAndCows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/BullsAndCowsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/BattleField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/BattleField.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/NextSmaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,34 +38,37 @@
     <session id="300890072">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="5" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="984" />
+          <entry key="java" value="2647" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="984" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="2647" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -82,10 +79,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/BullsAndCows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="95">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,40 +91,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/BullsAndCowsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="333" selection-start-line="333" selection-end-line="333" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/codewars/TestJunit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="32" column="25" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="25" />
+            <state relative-caret-position="133">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -136,40 +103,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="969">
+              <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/RainWaterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Numbers2Plus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/SnakesLadders.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1140">
-              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="323">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -233,6 +179,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/BullsAndCowsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/BullsAndCows.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java" />
       </list>
     </option>
   </component>
@@ -251,8 +200,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="642" />
-    <option name="y" value="230" />
+    <option name="x" value="111" />
+    <option name="y" value="2" />
     <option name="width" value="1920" />
     <option name="height" value="1030" />
   </component>
@@ -262,8 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,12 +316,14 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1532684310261" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533601329309" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -406,7 +355,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="JUnit.BullsAndCowsTest.getHint">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiehao.Main" />
       <module name="algorithm" />
@@ -420,12 +369,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+    <configuration name="BullsAndCowsTest.getHint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiehao.pratice.lectcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiehao.pratice.lectcode" />
+      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.lectcode.BullsAndCowsTest" />
+      <option name="METHOD_NAME" value="getHint" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -446,6 +401,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumOf3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiehao.pratice.lectcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiehao.pratice.lectcode" />
+      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.lectcode.SumOf3Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestJUnit.testRainWater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
@@ -462,38 +431,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJunit.testDirectInsertSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiehao.pratice.codewars.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jiehao.pratice.codewars" />
-      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.codewars.TestJunit" />
-      <option name="METHOD_NAME" value="testDirectInsertSort" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.TestJunit.testDirectInsertSort" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="JUnit.TestJUnit.testRainWater" />
       <item itemvalue="JUnit.RainWaterTest.testRainWater" />
+      <item itemvalue="JUnit.SumOf3Test" />
+      <item itemvalue="JUnit.BullsAndCowsTest.getHint" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BullsAndCowsTest.getHint" />
+        <item itemvalue="JUnit.SumOf3Test" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.RainWaterTest.testRainWater" />
         <item itemvalue="JUnit.TestJUnit.testRainWater" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.TestJunit.testDirectInsertSort" />
       </list>
     </recent_temporary>
   </component>
@@ -546,6 +497,8 @@
       <workItem from="1532651416581" duration="949000" />
       <workItem from="1532652935884" duration="340000" />
       <workItem from="1532662550999" duration="4556000" />
+      <workItem from="1533519647901" duration="9661000" />
+      <workItem from="1533601226155" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="开坑声明codewars">
       <created>1523322131799</created>
@@ -579,45 +532,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 15m 30s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 37m 15s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 16m 43s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 41m 01s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 16m 48s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 41m 12s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 17m 25s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 43m 43s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 33m 51s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 44m 02s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 34m 09s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 44m 51s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.05.17 at 10h 34m 17s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 15h 08m 04s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJunit_testDirectInsertSort - 2018.07.23 at 17h 01m 32s.xml">
-      <configuration name="TestJunit.testDirectInsertSort" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 15h 08m 40s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestJUnit_testRainWater - 2018.07.27 at 17h 04m 55s.xml">
-      <configuration name="TestJUnit.testRainWater" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 15h 09m 20s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RainWaterTest_testRainWater - 2018.07.27 at 17h 07m 01s.xml">
-      <configuration name="RainWaterTest.testRainWater" configurationId="JUnit" />
+    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 15h 09m 25s.xml">
+      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184650000" />
+    <option name="totallyTimeSpent" value="194387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978602" visible="true" weight="0.19436997" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978602" visible="true" weight="0.19772118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -629,11 +582,11 @@
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
       <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49583334" weight="0.33049646" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.39942938" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50416666" side_tool="true" weight="0.3311185" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32765958" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.32765958" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32890365" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -661,7 +614,8 @@
     <MESSAGE value="结构修改" />
     <MESSAGE value="更新codewars和lectcode" />
     <MESSAGE value="更新codewars" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新codewars" />
+    <MESSAGE value="更新leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新leetcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -834,43 +788,36 @@
           <properties />
           <option name="timeStamp" value="135" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((HashMap)map).entrySet().toArray()[1]" custom="java.util.HashMap" />
+      </configuration>
       <configuration name="Application">
         <watch expression="l1" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3120">
-          <caret line="155" column="7" selection-start-line="155" selection-start-column="7" selection-end-line="155" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/regex/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38544">
-          <caret line="1655" column="17" selection-start-line="1655" selection-start-column="17" selection-end-line="1655" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="111" column="63" selection-start-line="111" selection-start-column="63" selection-end-line="111" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/regex/MatchResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/regex/Matcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14448">
@@ -1040,16 +987,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/SnakesLadders.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/TestJUnit.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="266">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5776">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/codewars/TestJunit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="475">
           <caret line="32" column="25" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1057,20 +1032,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../m2/repository/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Numbers2Plus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        <state relative-caret-position="760">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/TestJUnit.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/codewars/SnakesLadders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1140">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -1084,44 +1063,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/BullsAndCows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/BullsAndCowsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Numbers2Plus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="133">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="323">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
         </state>
       </provider>
     </entry>
