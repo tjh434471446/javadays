@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93ffc899-0cad-4ae6-9fe0-f560e9d09bec" name="Default" comment="更新leetcode">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/BullsAndCows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/BullsAndCowsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Dota2Senate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/Dota2SenateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/PermutationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,36 +40,40 @@
     <session id="300890072">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.47" value="1" />
           <entry key="project.open.time.55" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="11" />
+          <entry key="class" value="4" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="11" />
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="2647" />
+          <entry key="java" value="5900" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2647" />
+          <entry key="JAVA" value="5900" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
@@ -81,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/BullsAndCows.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="76">
               <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,11 +108,61 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+            <state relative-caret-position="1558">
+              <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Dota2Senate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Anagrams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Permutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/PermutationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +170,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="342">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -176,12 +232,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/TestJUnit.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/RainWaterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MaxArea.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/RainWater.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/BullsAndCowsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/BullsAndCows.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Dota2Senate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/Dota2SenateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Anagrams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/PermutationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Permutation.java" />
       </list>
     </option>
   </component>
@@ -200,17 +261,21 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="111" />
-    <option name="y" value="2" />
+    <option name="x" value="110" />
     <option name="width" value="1920" />
     <option name="height" value="1030" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,15 +380,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533601329309" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534227697446" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -355,7 +417,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BullsAndCowsTest.getHint">
+  <component name="RunManager" selected="JUnit.PermutationTest.test">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jiehao.Main" />
       <module name="algorithm" />
@@ -385,7 +447,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RainWaterTest.testRainWater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Dota2SenateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -394,8 +456,22 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.jiehao.pratice.lectcode" />
-      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.lectcode.RainWaterTest" />
-      <option name="METHOD_NAME" value="testRainWater" />
+      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.lectcode.Dota2SenateTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiehao.pratice.lectcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiehao.pratice.lectcode" />
+      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.lectcode.PermutationTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -415,36 +491,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJUnit.testRainWater" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiehao.pratice.lectcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.jiehao.pratice.lectcode" />
-      <option name="MAIN_CLASS_NAME" value="com.jiehao.pratice.lectcode.TestJUnit" />
-      <option name="METHOD_NAME" value="testRainWater" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="JUnit.TestJUnit.testRainWater" />
-      <item itemvalue="JUnit.RainWaterTest.testRainWater" />
       <item itemvalue="JUnit.SumOf3Test" />
       <item itemvalue="JUnit.BullsAndCowsTest.getHint" />
+      <item itemvalue="JUnit.Dota2SenateTest" />
+      <item itemvalue="JUnit.PermutationTest.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PermutationTest.test" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.Dota2SenateTest" />
         <item itemvalue="JUnit.BullsAndCowsTest.getHint" />
         <item itemvalue="JUnit.SumOf3Test" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="JUnit.RainWaterTest.testRainWater" />
-        <item itemvalue="JUnit.TestJUnit.testRainWater" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +558,11 @@
       <workItem from="1532652935884" duration="340000" />
       <workItem from="1532662550999" duration="4556000" />
       <workItem from="1533519647901" duration="9661000" />
-      <workItem from="1533601226155" duration="76000" />
+      <workItem from="1533601226155" duration="3984000" />
+      <workItem from="1533889187519" duration="208000" />
+      <workItem from="1533889517322" duration="1385000" />
+      <workItem from="1534151674547" duration="2927000" />
+      <workItem from="1534215784492" duration="6173000" />
     </task>
     <task id="LOCAL-00001" summary="开坑声明codewars">
       <created>1523322131799</created>
@@ -528,49 +592,56 @@
       <option name="project" value="LOCAL" />
       <updated>1532592834650</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新leetcode">
+      <created>1533601349888</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533601349888</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 37m 15s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 07m 53s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 41m 01s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 08m 33s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 41m 12s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 11m 15s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 43m 43s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 15m 40s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 44m 02s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 17m 00s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 14h 44m 51s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 17m 06s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 15h 08m 04s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 19m 08s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 15h 08m 40s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 19m 17s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 15h 09m 20s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 21m 03s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BullsAndCowsTest_getHint - 2018.08.06 at 15h 09m 25s.xml">
-      <configuration name="BullsAndCowsTest.getHint" configurationId="JUnit" />
+    <history-entry file="PermutationTest_test - 2018.08.14 at 14h 21m 08s.xml">
+      <configuration name="PermutationTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194387000" />
+    <option name="totallyTimeSpent" value="208988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978602" visible="true" weight="0.19772118" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978602" visible="true" weight="0.20844504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -586,7 +657,7 @@
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50416666" side_tool="true" weight="0.3311185" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.32765958" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32765958" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32890365" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="TODO" order="12" />
@@ -806,71 +877,33 @@
           <properties />
           <option name="timeStamp" value="142" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Dota2Senate.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Dota2Senate.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Permutation.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="((HashMap)map).entrySet().toArray()[1]" custom="java.util.HashMap" />
-      </configuration>
       <configuration name="Application">
         <watch expression="l1" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14448">
-          <caret line="637" column="5" selection-start-line="637" selection-start-column="5" selection-end-line="637" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/lang/CharSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="100" column="22" selection-start-line="100" selection-start-column="22" selection-end-line="100" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/Hashtable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1608">
-          <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/program/Java/jdk1.8.0_131/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="142" column="6" selection-start-line="142" selection-start-column="6" selection-end-line="142" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/ElasticsearchUtil.java" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="72">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j2.properties" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pratice/codewars/DragonsCurve.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pratice/codewars/JosephusSurvivor.java" />
@@ -988,23 +1021,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/TestJUnit.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/MediaNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1026,9 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="32" column="25" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1057,6 +1074,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Kis.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/Dota2SenateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1065,7 +1090,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/BullsAndCows.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="76">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1083,17 +1108,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="1558">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/SumOf3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Dota2Senate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+        <state relative-caret-position="209">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/SumOf3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Anagrams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/jiehao/pratice/lectcode/PermutationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jiehao/pratice/lectcode/Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
