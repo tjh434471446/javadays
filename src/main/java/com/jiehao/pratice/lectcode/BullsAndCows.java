@@ -6,7 +6,7 @@ public class BullsAndCows {
     public String getHint(String secret, String guess) {
         int bulls = 0;
         int cows = 0;
-        Map<Character,Integer> map = new HashMap();
+        Map<Character,Integer> map = new HashMap<>();
         int[] checkList = new int[secret.length()];
         for (int i = 0; i < secret.length(); i++){
             char ch = secret.charAt(i);

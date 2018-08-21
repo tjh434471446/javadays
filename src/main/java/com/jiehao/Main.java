@@ -1,10 +1,10 @@
 package com.jiehao;
-import com.jiehao.pratice.lectcode.MaxArea;
+import java.util.Arrays;
+
+import com.jiehao.pratice.lectcode.FrequentElements;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
@@ -20,10 +20,12 @@ public class Main {
 //        Numbers2Plus.excute();
         //MaxArea.test();
         int[] a = {1,2,2,3,4};
-        int[] b = {1,2,2,3,4};
+        //int[] b = {1,2,2,3,4};
         //test(a);
-        System.out.println("main" + Arrays.toString(a));
-        System.out.println(Arrays.equals(a,b));
+        //System.out.println("main" + Arrays.toString(a));
+        //System.out.println(Arrays.equals(a,b));
+        FrequentElements frequentElements = new FrequentElements();
+        frequentElements.topKFrequent(a, 2);      
 
     }
     public static void test(int[] a){

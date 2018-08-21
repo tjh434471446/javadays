@@ -17,20 +17,6 @@ public class Anagrams {
                 map.put(c,1);
             }
         }
-        int i = 0;
-        while (i + p.length() - 1 < s.length() - 1){
-            char left = s.charAt(i);
-            if (map.containsKey(left)){
-                if (checkCharacter(i,p.length(),map)){
-
-                }
-            }else{
-                i ++;
-            }
-        }
         return list;
-    }
-    boolean checkCharacter(int index,int length,Map map){
-        return false;
     }
 }
